@@ -1,0 +1,5 @@
+telebot
+requests
+SpeechRecognition
+gtts
+python-decouple
